@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sites_Link</name>
+   <tag></tag>
+   <elementGuidId>81ec5c6e-8903-4411-b5b3-75c349344474</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+    Sites
+' or . = '
+    Sites
+')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='globalnav-start-home-collection']//*[text()='Sites']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>491f4152-61f0-4790-ab0f-4abd9d6853c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>foundation-collection-navigator globalnav-homecard</value>
+      <webElementGuid>4729bb94-a75c-4c16-8ea5-eee10c653dcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-foundation-collection-navigator-href</name>
+      <type>Main</type>
+      <value>/sites.html/content</value>
+      <webElementGuid>7193bc7f-3b36-4a20-ada8-3798dc10544b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>890d14f0-8ae8-467e-ade9-9f15212a62ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a6e60441-9b63-42b1-8001-a918757bdeef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>title_b69bfe7b-c12e-44a6-a096-3a151ad5fa4c</value>
+      <webElementGuid>67d62ee5-fd4d-477f-a2e1-32bfae0c369d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Sites
+</value>
+      <webElementGuid>7c36c0d4-5447-4932-b66d-5b012c3420de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;globalnav-start-home-collection&quot;)/coral-masonry-item[@class=&quot;foundation-collection-item coral3-Masonry-item is-managed&quot;]/div[@class=&quot;foundation-collection-navigator globalnav-homecard&quot;]</value>
+      <webElementGuid>0af2f159-2561-448b-bfcc-a063cbdb3bd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//coral-masonry[@id='globalnav-start-home-collection']/coral-masonry-item[6]/div</value>
+      <webElementGuid>edbbd5b2-bbe4-44ec-b017-893972d8a50a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Projects'])[1]/following::div[1]</value>
+      <webElementGuid>50d92541-47a0-438f-aa8d-fe2bcfa17d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OTA Editor'])[1]/following::div[3]</value>
+      <webElementGuid>d82ff233-c339-43d7-af1e-93f8e4c6ffba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Experience Fragments'])[1]/preceding::div[2]</value>
+      <webElementGuid>a582c209-ba28-4cf0-805a-54afc4268e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//coral-masonry-item[6]/div</value>
+      <webElementGuid>aea37c0e-746c-48af-b0b4-2cb06941cae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+    Sites
+' or . = '
+    Sites
+')]</value>
+      <webElementGuid>50a93313-dd64-4c71-a6dc-a5a4472a152a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

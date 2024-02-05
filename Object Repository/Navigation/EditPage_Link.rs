@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EditPage_Link</name>
+   <tag></tag>
+   <elementGuidId>b648bd7a-ec25-479e-a2a5-270298e867f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.betty-ActionBar-item.cq-siteadmin-admin-actions-edit-activator.foundation-collection-action.coral-Button--graniteActionBar.coral3-Button.coral3-Button--quiet > coral-button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='CSV Report'])[2]/following::coral-button-label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>coral-button-label</value>
+      <webElementGuid>5cbf9676-eb67-49c6-ac5e-6ef888448ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit(e)</value>
+      <webElementGuid>c3ada96e-b0e2-4099-858e-264ea3c7646e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;skipCoral2Validation wf-adobeclean-i4-active wf-adobeclean-n3-active wf-adobeclean-n4-active wf-adobeclean-n7-active wf-adobecleancondensed-n4-active wf-adobecleancondensed-n7-active wf-active&quot;]/body[@class=&quot;coral--light shell-collectionpage-view&quot;]/div[@class=&quot;granite-collection-selectionbar foundation-mode-switcher&quot;]/div[@class=&quot;foundation-mode-switcher-item foundation-mode-switcher-item-active&quot;]/coral-actionbar[@class=&quot;betty-ActionBar betty-ActionBar--large foundation-collection-actionbar coral3-ActionBar&quot;]/coral-actionbar-primary[@class=&quot;coral3-ActionBar-primary&quot;]/coral-actionbar-item[@class=&quot;coral3-ActionBar-item&quot;]/button[@class=&quot;betty-ActionBar-item cq-siteadmin-admin-actions-edit-activator foundation-collection-action coral-Button--graniteActionBar coral3-Button coral3-Button--quiet&quot;]/coral-button-label[1]</value>
+      <webElementGuid>d031d4f9-d61b-495b-951b-342ab0ea2dbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CSV Report'])[2]/following::coral-button-label[1]</value>
+      <webElementGuid>c19a1f60-7601-4ca8-925e-636a873ca83c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Folder'])[2]/following::coral-button-label[1]</value>
+      <webElementGuid>3a964d6c-11ad-4c95-8495-e0098952a723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>f447ac90-f646-4b17-919e-b387b4f1eae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//coral-actionbar-item[2]/button/coral-button-label</value>
+      <webElementGuid>3889d8cb-bb49-4328-b7d5-8ba86680b9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//coral-button-label[(text() = 'Edit(e)' or . = 'Edit(e)')]</value>
+      <webElementGuid>d209c4e2-8d76-474c-8bdf-a46e5e4885da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
